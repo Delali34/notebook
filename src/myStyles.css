@@ -18,8 +18,7 @@
 
 .form {
     padding: 27px 34px;
-    max-width: 100%;
-    width: 700px;
+    min-width: 700px;
     box-sizing: border-box;
     outline: none;
     border: 3px solid #FBE4B4;
