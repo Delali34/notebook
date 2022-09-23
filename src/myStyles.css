@@ -90,13 +90,12 @@
 
 .output-container {
     margin: 10px 0 25px;
-    margin-left: 20px;
     
 }
 
  .output {
     background-color: #FBE4B4;
-
+    
  }
 
  .button-div {
@@ -117,7 +116,7 @@
 .edit-form {
     padding: 8px 10px;
     width: 100%;
-    width: 460px;
+    width: 400px;
     box-sizing: border-box;
     outline: none;
     border: 3px solid #FBE4B4;
