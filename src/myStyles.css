@@ -90,10 +90,13 @@
 
 .output-container {
     margin: 10px 0 25px;
+    margin-left: 20px;
+    
 }
 
  .output {
     background-color: #FBE4B4;
+
  }
 
  .button-div {
